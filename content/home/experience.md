@@ -35,6 +35,6 @@ date_format = "Jan 2006"
   location = "Dhaka, Bangladesh"
   date_start = "2014-09-01"
   date_end = "2017-09-15"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = ""
 
 +++
