@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D Candidate in Transportation Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Texas at Arlington
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests human behavior, traffic safety and intersection analysis
 
 interests:
 - Artificial Intelligence
