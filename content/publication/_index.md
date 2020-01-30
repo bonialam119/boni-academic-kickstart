@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: A study on causes of road accidents at Dhaka to Comilla highway
 
 # View.
 #   1 = List
@@ -8,8 +8,7 @@ title: Publications
 #   4 = Citation
 view: 4
 
-# Optional header image (relative to `static/img/` folder).
 header:
   caption: "A study on causes of road accidents at Dhaka to Comilla highway"
-  image: ""
+
 ---
