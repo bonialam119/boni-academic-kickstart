@@ -26,7 +26,8 @@ subtitle = ""
   tag = "*"
   
   [[content.filter_button]]
-  name = "Deep Learning"
+  name = "“Multi- Hazard Risk and Vulnerability Assessment (MRVA), Modeling and
+Mapping” under the supervision of Ministry of Disaster Management and Relief."
   tag = "Deep Learning"
   
   [[content.filter_button]]
