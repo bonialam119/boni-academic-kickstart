@@ -19,11 +19,11 @@ subtitle = ""
   name = "R-Studio"
   
 [[feature]]
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "VISSIM" 
   
 [[feature]]
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "TransCAD"
   
  [[feature]]
@@ -32,7 +32,7 @@ subtitle = ""
   name = "GIS"
   
   [[feature]]
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "HAZUS"
 
 +++
