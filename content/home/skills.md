@@ -30,7 +30,7 @@ subtitle = ""
   name = "Photography"
  [[feature]]
   icon = "gis"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "GIS"
 
 +++
