@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D Candidate in Transportation Engineering
+role: Ph.D Candidate in Transportation Engineering, Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -21,21 +21,22 @@ organizations:
 bio: My research interests human behavior, traffic safety and intersection analysis
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Pedestrian and Bicyclist safety
+- Traffic Safety
+- Intersection Analysis
+- Driver's behavior
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD Candidate in Transportation Engineering
+    institution: University of Texas at Arlington
+    year: 2019 to present
+  - course: MEng in Transportation Engineering
+    institution: University of Texas at Arlington
+    year: 2019
+  - course: BSc in Civil Engineering
+    institution: Bangladesh University of Engineering & Technology
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, seee: https://sourcethemes.com/academic/docs/page-builder/#icons
