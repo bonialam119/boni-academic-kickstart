@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests human behavior, traffic safety and intersection analysis
+bio: My research interests- human behavior, traffic safety and intersection analysis
 
 interests:
 - Pedestrian and Bicyclist safety
@@ -56,7 +56,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
 icon_pack: ai
-link: 
+link: https://drive.google.com/file/d/1RWXrsnisCZUSHrDz3DXqayNqDtgfD0D8/view?usp=sharing
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "jobaidulalam.boni@mavs.uta.edu"
