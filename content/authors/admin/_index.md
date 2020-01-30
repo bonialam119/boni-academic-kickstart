@@ -56,7 +56,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
 icon_pack: ai
-link: static/img/Resume-Jobaidul Alam Boni.pdf
+link: static/img/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "jobaidulalam.boni@mavs.uta.edu"
