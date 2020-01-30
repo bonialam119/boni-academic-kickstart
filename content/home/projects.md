@@ -26,10 +26,8 @@ subtitle = ""
   tag = "*"
   
   [[content.filter_button]]
-  name = "“Multi- Hazard Risk and Vulnerability Assessment (MRVA), Modeling and
-Mapping” under the supervision of Ministry of Disaster Management and Relief."
-  tag = "“Multi- Hazard Risk and Vulnerability Assessment (MRVA), Modeling and
-Mapping” under the supervision of Ministry of Disaster Management and Relief."
+  name = "Multi- Hazard Risk and Vulnerability Assessment (MRVA), Modeling and Mapping"
+  tag = "Multi- Hazard Risk and Vulnerability Assessment (MRVA), Modeling and Mapping"
   
   [[content.filter_button]]
   name = "Other"
