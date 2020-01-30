@@ -28,5 +28,9 @@ subtitle = ""
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
+ [[feature]]
+  icon = "gis"
+  icon_pack = "fas"
+  name = "GIS"
 
 +++
