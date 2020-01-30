@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "jobaidulalamboni@gmail.com".
+  link: "jobaidulalamboni@gmail.com".
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jobaidul-alam-boni-34a8831a0/
