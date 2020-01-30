@@ -29,12 +29,12 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Assistant Engineer"
+  company = "Asian Diaster Preparedness Center (ADPC)"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  location = "Dhaka, Bangladesh"
+  date_start = "2014-09-01"
+  date_end = "2017-09-15"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
