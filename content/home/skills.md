@@ -15,22 +15,24 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
   icon_pack = "fab"
-  name = "R"
+  name = "R-Studio"
   
 [[feature]]
-  icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics" 
+  name = "VISSIM" 
   
 [[feature]]
-  icon = "camera-retro"
   icon_pack = "fas"
-  name = "Photography"
+  name = "TransCAD"
+  
  [[feature]]
   icon = "gis"
   icon_pack = "fab"
   name = "GIS"
+  
+  [[feature]]
+  icon_pack = "fas"
+  name = "HAZUS"
 
 +++
