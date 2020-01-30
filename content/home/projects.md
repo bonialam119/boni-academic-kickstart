@@ -26,11 +26,11 @@ subtitle = ""
   tag = "*"
   
   [[content.filter_button]]
-  name = "Multi- Hazard Risk and Vulnerability Assessment (MRVA), Modeling and Mapping"
+  name = "1. Multi- Hazard Risk and Vulnerability Assessment (MRVA), Modeling and Mapping"
   tag = "Multi- Hazard Risk and Vulnerability Assessment (MRVA), Modeling and Mapping"
   
   [[content.filter_button]]
-  name = "Other"
+  name = "2. The Comprehensive Disaster Management Program (Phase II)"
   tag = "Demo"
 
 [design]
