@@ -67,4 +67,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
+I am a research assistant and a Ph.D student at University of Texas at Arlington. I have completed my B.Sc in Civil Engineering from Bangladesh University of Engineering & Technology and finished my M. Eng in Transportation Engineering from University of Texas at Arlington. My primary research interests are- Areas of transportation human factors and consideration of user behavior in the design, evaluation and innovation of transportation systems, Distraction driving and drivers’ behavior, transportation safety and accident analysis, transportation planning. 
