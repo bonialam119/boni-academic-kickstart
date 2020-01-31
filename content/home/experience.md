@@ -25,6 +25,12 @@ date_format = "Jan 2006"
   date_start = "2017-01-01"
   date_end = ""
   description = """
+  Responsibilities include:
+  
+  * Literature Review
+  * Data Collection
+  * Statistical Analysis
+  """
  
   """
 
@@ -35,6 +41,12 @@ date_format = "Jan 2006"
   location = "Dhaka, Bangladesh"
   date_start = "2014-09-01"
   date_end = "2017-09-15"
-  description = ""
+  description = """
+  Responsibilities include:
+  
+  * GIS Mapping
+  * Hazus Analysis
+  * Presenting and Providing Training
+  """
 
 +++
