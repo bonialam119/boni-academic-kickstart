@@ -2,7 +2,7 @@
 title: Evaluating Lost Capacity Due to Technology Related Behavior
 tags:
 
-date: "2019-07-31T00:00:00Z"
+date: "2020-01-31T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
