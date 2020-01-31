@@ -2,7 +2,7 @@
 title: The North Texas Regional Housing Assessment (NTRHA)
 tags:
 
-date: "2017-07-31T00:00:00Z"
+date: "2019-04-31T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
