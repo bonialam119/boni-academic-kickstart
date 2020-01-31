@@ -17,7 +17,12 @@ publishDate: "2019-09-20T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "2019 Transportation and Communities Summit 2019"
+publication: "Transportation and Communities Summit 2019"
+
+image:
+  caption: 
+  focal_point: ""
+  preview_only: True
 
 ---
 
