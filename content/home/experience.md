@@ -22,27 +22,16 @@ date_format = "Jan 2006"
   company = "University of Texas at Arlington"
   company_url = "https://hyunlab.uta.edu/"
   location = "Texas"
-  date_start = "2017-01-01"
+  date_start = "2017-08-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Literature Review
-  * Data Collection
-  * Statistical Analysis
-  """
- 
+  * Analysing
+  * Modelling
+  * Deploying
   """
 
-[[experience]]
-  title = "Assistant Engineer"
-  company = "Asian Diaster Preparedness Center (ADPC)"
-  company_url = ""
-  location = "Dhaka, Bangladesh"
-  date_start = "2014-09-01"
-  date_end = "2017-09-15"
-  description = """
 
-  """
 
 +++
