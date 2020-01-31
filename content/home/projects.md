@@ -21,21 +21,6 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
- [[content.filter_button]]
-  name = "All"
-  tag = "*"
-  
-  [[content.filter_button]]
-  name = "1. Multi- Hazard Risk and Vulnerability Assessment (MRVA), Modeling and Mapping"
-  tag = "Multi- Hazard Risk and Vulnerability Assessment (MRVA), Modeling and Mapping"
-  
-  [[content.filter_button]]
-  name = "2. The Comprehensive Disaster Management Program (Phase II)"
-  tag = "Demo"
-  
-  [[content.filter_button]]
-  name="3.Distracted driving and its effect on intersection headways"
-  tag="Demo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -46,7 +31,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 5
+  view = 1
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
