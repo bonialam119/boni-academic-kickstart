@@ -27,11 +27,24 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Literature Review
+  * Data Collecting and Data Modelling
+  * Statistical Analysis and Report Writing
   """
 
-
+[[experience]]
+  title = "Assistant Engineer"
+  company = "Asian Disaster Preparedness Center (ADPC)"
+  company_url = "https://www.adpc.net/igo/?"
+  location = "Dhaka, Bangladesh"
+  date_start = "2014-09-01"
+  date_end = "2017-07-31"
+  description = """
+  Responsibilities include:
+  
+  * GIS modelling
+  * Hazus Analysis
+  * Presentations
+  """
 
 +++
