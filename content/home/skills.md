@@ -36,4 +36,7 @@ icon="HAZUS"
 icon_pack = "fab"
 name = "HAZUS"
 
+[[feature]]
+icon_pack = "fab"
+name = "Statistics"
 +++
