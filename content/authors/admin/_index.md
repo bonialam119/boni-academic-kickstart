@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D Candidate in Transportation Engineering, Research Assistant
+role: Ph.D Candidate & Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: jobaidulalamboni@gmail.com
+  link: '#contact' # For a direct email link, use "mailto:jobaidulalamboni@gmail.com"
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jobaidul-alam-boni-34a8831a0/
