@@ -22,7 +22,7 @@ publication: "Transportation and Communities Summit 2019"
 image:
   caption: 
   focal_point: ""
-  preview_only: True
+  preview_only: true
 
 ---
 
