@@ -17,7 +17,7 @@ publishDate: "2019-09-20T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Evaluating Startup Loss Time of Signalized Intersection Due to Technology Induced Driving Behavior"
+publication: "2019 Transportation and Communities Summit 2019"
 
 ---
 
