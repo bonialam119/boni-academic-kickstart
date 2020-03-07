@@ -42,7 +42,7 @@ Twitter has become an important communication channel in times of emergency. The
 For the purpose of our study, we collected data from kaggle "Real or Not? NLP with Disaster Tweets" competition from the following link.https://www.kaggle.com/c/nlp-getting-started/data
 
 ## Tools used in NoteBook
-For our study we imported different tools in Python. We imported numpy, pandas, tensorflow, standard scaler and others as shown below.{{< figure src="/img/posts/mocap-separation/peggi-mapped.png" >}}
+For our study we imported different tools in Python. We imported numpy, pandas, tensorflow, standard scaler and others as shown below.{{< figure src="https://github.com/bonialam119/boni-academic-kickstart/blob/master/content/post/new/1.PNG" >}}
 
 ## Optitrack plugin for Motion Builder
 We need the Optitrack’s Plugin for Motion Builder in order to stream MoCap data to Motion Builder. Install the plugin following the on-screen steps and restart  Motion Builder if it is already running. After the MotionBuilder plugin has been installed, three OptiTrack devices will be added to the MotionBuilder _‘Assets Browser’_ under the _‘Device’_ section. Follow this [link](https://optitrack.com/public/documents/motion-builder-plugin-manual-v3.0.0.pdf) for a more detailed usage guide.
