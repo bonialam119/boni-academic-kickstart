@@ -39,7 +39,7 @@ Twitter has become an important communication channel in times of emergency. The
 - We used kaggle notebook as software tool for this study https://www.kaggle.com/kernels
 
 ## Data Collected
-For the purpose of our study, we collected data from kaggle "Real or Not? NLP with Disaster Tweets" competition from the following link. https://www.kaggle.com/c/nlp-getting-started/data
+For the purpose of our study, we collected data from kaggle "Real or Not? NLP with Disaster Tweets" competition from the following link.https://www.kaggle.com/c/nlp-getting-started/data
 
 ## Motion Builder
 MotionBuilder is a 3D character animation software produced by Autodesk. A free version of the software can be downloaded with a student account. It is used for virtual cinematography, motion capture, and traditional keyframe animation. We are using Motion Builder to edit the recorded take from Motive and separate the characters.
