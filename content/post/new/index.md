@@ -41,8 +41,8 @@ Twitter has become an important communication channel in times of emergency. The
 ## Data Collected
 For the purpose of our study, we collected data from kaggle "Real or Not? NLP with Disaster Tweets" competition from the following link.https://www.kaggle.com/c/nlp-getting-started/data
 
-## Motion Builder
-MotionBuilder is a 3D character animation software produced by Autodesk. A free version of the software can be downloaded with a student account. It is used for virtual cinematography, motion capture, and traditional keyframe animation. We are using Motion Builder to edit the recorded take from Motive and separate the characters.
+## Tools used in NoteBook
+For our study we imported different tools in Python. We imported numpy, pandas, tensorflow, standard scaler and others as shown below.{{< figure src="/img/posts/mocap-separation/peggi-mapped.png" >}}
 
 ## Optitrack plugin for Motion Builder
 We need the Optitrack’s Plugin for Motion Builder in order to stream MoCap data to Motion Builder. Install the plugin following the on-screen steps and restart  Motion Builder if it is already running. After the MotionBuilder plugin has been installed, three OptiTrack devices will be added to the MotionBuilder _‘Assets Browser’_ under the _‘Device’_ section. Follow this [link](https://optitrack.com/public/documents/motion-builder-plugin-manual-v3.0.0.pdf) for a more detailed usage guide.
