@@ -4,7 +4,6 @@ title: 'Real or Not? NLP with Disaster Tweets'
 
 authors:
 - admin
-- Aishwarya Pothula
 
 tags:
 - Motion Builder
@@ -39,12 +38,8 @@ projects: []
 ---
 Twitter has become an important communication channel in times of emergency. The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies). So in this blog we tried create a model to filter the disaster tweet among the thousands of tweets in real life.
 
-## Software used for the tutorial
-- [Motive] (https://optitrack.com/products/motive/)
-- Pre-recorded take
-- [Motion Builder] (https://www.autodesk.com/products/motionbuilder/overview) (**MoBu** in short)
-- [Optitrack plugin for Motion Builder] (https://optitrack.com/motionbuilder-plugin/) (As of this writing time, Plugin supports till Motion Builder 2018)
-- Rigged character - [Peggy] (https://free3d.com/3d-model/peggy-sue-rigged-for-animation-45959.html) for the purpose of this blog
+## Software used for the study
+- We used kaggle notebook as software tool for this study https://www.kaggle.com/kernels
 
 ## Pre-recorded take
 For the purpose of our blog, we are using a pre-recorded take recorded using Motive software in 12 optitrack cameras in a motion capture setup. The take contains two actors fixed with active puck, for motion capture, interacting with a few objects such as a ball, a toy etc affixed with passive markers. The names of the two actors are 'Sanath' and 'Rubel' and their skeleton objects are named the same.
