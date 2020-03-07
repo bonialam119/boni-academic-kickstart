@@ -1,7 +1,6 @@
 ---
 title: 'Real or Not? NLP with Disaster Tweets'
 # subtitle: ''
-summary: Twitter has become an important communication channel in times of emergency. The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies). So in this blog we tried create a model to filter the disaster tweet among the thousands of tweets in real life.
 
 authors:
 - admin
@@ -38,7 +37,7 @@ draft: false
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-The goal of this blog is to help you with how to export individual mocap files from multi-skeleton mocap Motive videos and apply them to a model. You can also view a screen-recorded video of the tutorial at the end.
+Twitter has become an important communication channel in times of emergency. The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies). So in this blog we tried create a model to filter the disaster tweet among the thousands of tweets in real life.
 
 ## Software used for the tutorial
 - [Motive] (https://optitrack.com/products/motive/)
