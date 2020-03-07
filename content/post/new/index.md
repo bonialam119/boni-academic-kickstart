@@ -44,10 +44,14 @@ For the purpose of our study, we collected data from kaggle "Real or Not? NLP wi
 ## Tools used in NoteBook
 For our study we imported different tools in Python. We imported numpy, pandas, tensorflow, standard scaler and others as shown below.
 
-{{< figure src="static/img/1.PNG" title="Streaming settings in motive." >}}
-preview_only: true
-## Optitrack plugin for Motion Builder
-We need the Optitrack’s Plugin for Motion Builder in order to stream MoCap data to Motion Builder. Install the plugin following the on-screen steps and restart  Motion Builder if it is already running. After the MotionBuilder plugin has been installed, three OptiTrack devices will be added to the MotionBuilder _‘Assets Browser’_ under the _‘Device’_ section. Follow this [link](https://optitrack.com/public/documents/motion-builder-plugin-manual-v3.0.0.pdf) for a more detailed usage guide.
+{{< figure src="static/img/1.PNG" >}}
+
+## Import Data
+Kaggle uploaded three types of data for this study.
+Train Data: Which includes text data or tweet, location and keyword with an id number. In target section it has two values: 1 for the tweet referring as disaster and 0 referring as non distaster tweet.
+Test Data: Test data has the same attributes as train data sets. But target column is missing here. Which is the primary target for this study. 
+Submission: A sample submission column of the results.
+{{< figure src="static/img/2.PNG" >}}
 
 ## Downloading a Rigged character
 For the purpose of this blog, we will be making use of a rigged character, [Peggy Sue] (https://free3d.com/3d-model/peggy-sue-rigged-for-animation-45959.html). This model has bone mapping that matches with MoBu’s bone naming rules. We can use any character, but if the bone mapping of the model doesn’t follow MoBu naming, each bone has to be mapped manually. 
