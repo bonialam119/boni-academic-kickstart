@@ -53,19 +53,11 @@ Test Data: Test data has the same attributes as train data sets. But target colu
 Submission: A sample submission column of the results.
 < img src="static/img/2.PNG" >
 
-## Downloading a Rigged character
-For the purpose of this blog, we will be making use of a rigged character, [Peggy Sue] (https://free3d.com/3d-model/peggy-sue-rigged-for-animation-45959.html). This model has bone mapping that matches with MoBu’s bone naming rules. We can use any character, but if the bone mapping of the model doesn’t follow MoBu naming, each bone has to be mapped manually. 
-When you choose to download, peggy is downloaded as a .rar file. Extract from the .rar file and open ‘Peggy.fbx’ 
-{{< figure src="/img/posts/mocap-separation/peggi-extract.png" title="Extracted files" >}}
+## Using Code for Data Cleaning and the model
+For this purpose of the study we will use corpus stopwords, porter stemmer, count vectorize, train_test split. For model running we will be doing logistsic regression, so we imported logistic regression sklear.linear model.
 
-## Streaming from MoCap
-Load the pre-recorded mocap video from which individual mocaps are to be exported onto MoBu. To stream the recorded take into Motion Builder, open Motive and make sure that the **‘Data Streaming’** settings are as follows. 
-
-{{< figure src="/img/posts/mocap-separation/motive-setting.png" title="Streaming settings in motive." >}}
-
-Go to **‘Edit’** mode. Make sure that the video is in ‘Loop mode’ and play the video. “Loop’ mode can be found at the bottom of the screen beside the video timescale
-
-{{< figure src="/img/posts/mocap-separation/motive-player.png" title="Motive player." >}}
+## Data Cleaning
+Using corpus we cleaned our data by removing hastags and other marks. We also made our data lower case for all. Follwing image showing an example of data before and after cleaning.
 
 
 ## Recording in MoBu
