@@ -5,10 +5,7 @@ title: 'Real or Not? NLP with Disaster Tweets'
 authors:
 - admin
 
-tags:
-- Motion Builder
-- Motion Capture
-- 3D Animation
+
 # - Academic
 categories:
 # - Demo
@@ -41,8 +38,8 @@ Twitter has become an important communication channel in times of emergency. The
 ## Software used for the study
 - We used kaggle notebook as software tool for this study https://www.kaggle.com/kernels
 
-## Pre-recorded take
-For the purpose of our blog, we are using a pre-recorded take recorded using Motive software in 12 optitrack cameras in a motion capture setup. The take contains two actors fixed with active puck, for motion capture, interacting with a few objects such as a ball, a toy etc affixed with passive markers. The names of the two actors are 'Sanath' and 'Rubel' and their skeleton objects are named the same.
+## Data Collected
+For the purpose of our study, we collected data from kaggle "Real or Not? NLP with Disaster Tweets" competition from the following link. https://www.kaggle.com/c/nlp-getting-started/data
 
 ## Motion Builder
 MotionBuilder is a 3D character animation software produced by Autodesk. A free version of the software can be downloaded with a student account. It is used for virtual cinematography, motion capture, and traditional keyframe animation. We are using Motion Builder to edit the recorded take from Motive and separate the characters.
