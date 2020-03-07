@@ -7,7 +7,7 @@ date: "2020-03-06T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-
+https://github.com/bonialam119/boni-academic-kickstart/issues/1#issue-577253933
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
