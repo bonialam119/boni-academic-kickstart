@@ -45,7 +45,7 @@ For the purpose of our study, we collected data from kaggle "Real or Not? NLP wi
 For our study we imported different tools in Python. We imported numpy, pandas, tensorflow, standard scaler and others as shown below.
 
 {{< figure src="static/img/1.PNG" title="Streaming settings in motive." >}}
-
+preview_only: true
 ## Optitrack plugin for Motion Builder
 We need the Optitrack’s Plugin for Motion Builder in order to stream MoCap data to Motion Builder. Install the plugin following the on-screen steps and restart  Motion Builder if it is already running. After the MotionBuilder plugin has been installed, three OptiTrack devices will be added to the MotionBuilder _‘Assets Browser’_ under the _‘Device’_ section. Follow this [link](https://optitrack.com/public/documents/motion-builder-plugin-manual-v3.0.0.pdf) for a more detailed usage guide.
 
