@@ -1,7 +1,8 @@
 ---
-title: 'Multiple Mocap character separation using Motion Builder'
+title: 'Real or Not? NLP with Disaster Tweets'
 # subtitle: ''
-summary: Optitrack's Motive doesn't provide option to separate characters(Actors) from recorded motion takes. This blog discusses an approach to use Motive recording takes and use Motion Builder to separate the  characters and export as individual .fbx files.
+summary: Twitter has become an important communication channel in times of emergency.
+The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies). So in this blog we tried create a model to filter the disaster tweet among the thousands of tweets in real life.
 
 authors:
 - admin
