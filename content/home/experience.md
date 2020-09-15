@@ -46,5 +46,17 @@ date_format = "Jan 2006"
   * Hazus Analysis
   * Presentations
   """
-
+[[experience]]
+  title = "Vice President"
+  company = "Institute of Transportation Engineers (ITE) Student Chapter at UTA"
+  company_url = "https://www.adpc.net/igo/?"
+  location = "Texas"
+  date_start = "2019-09-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Organizing Transportation related seminar and monthly meetings
+  * Attending ITE conference on behalf of UTA
+  """
 +++
