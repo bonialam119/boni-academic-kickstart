@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D Student Graduate Research Assistant & Graduate Teaching Assistant 
+role: Ph.D Student & Graduate Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: PhD Candidate in Transportation Engineering
+  - course: Ph.D in Transportation Engineering
     institution: University of Texas at Arlington
     year: 2019 to present
   - course: MEng in Transportation Engineering
