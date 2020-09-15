@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D Candidate & Research Assistant
+role: Ph.D Student, Graduate Research Assistant & Graduate Teaching Assistant 
 
 # Organizations/Affiliations
 organizations:
