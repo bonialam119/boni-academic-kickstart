@@ -1,8 +1,8 @@
 ---
-title: Assignment 01: Random Data Generation and Polynomial Regression
+title: Comprehensive Disaster Management Programme Phase II
 tags:
 
-date: "2020-10-26T00:00:00Z"
+date: "2017-08-26T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
