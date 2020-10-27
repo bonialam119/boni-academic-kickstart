@@ -2,7 +2,7 @@
 title: Assignment 1: Polynomial Regression using Random Data
 tags:
 
-date: "2017-08-26T00:00:00Z"
+date: "2020-10-26T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
