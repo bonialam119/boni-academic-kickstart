@@ -1,5 +1,5 @@
 ---
-title: Assignment 1-Polynomial Regression using Random Data
+title: Assignment 2 KNN Method
 tags:
 
 date: "2020-10-26T00:00:00Z"
