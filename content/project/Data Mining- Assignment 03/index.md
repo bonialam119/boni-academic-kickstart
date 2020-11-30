@@ -16,4 +16,4 @@ external_link: ""
 slides: example
 ---
 notebook link
-https://drive.google.com/file/d/1WS4CQdBR4SS96YAgrRW1iRx51m5hiGm4/view?usp=sharing
+https://drive.google.com/file/d/1zKEp43LHe-uQJdD5_avF4B3UC90xnuZu/view?usp=sharing
