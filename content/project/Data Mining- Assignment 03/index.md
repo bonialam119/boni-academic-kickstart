@@ -15,5 +15,5 @@ external_link: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-notebook link
+notebook link-
 https://drive.google.com/file/d/1mYXnxqZ4oDqKLyU44y9w7EY3eL8NA_Vk/view?usp=sharing
