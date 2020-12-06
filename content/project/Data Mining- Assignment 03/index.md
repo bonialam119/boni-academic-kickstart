@@ -19,3 +19,5 @@ notebook link-
 https://drive.google.com/file/d/14BKASHkcV3zjSwMjinSYVgvicRXN42yZ/view?usp=sharing
 html link-
 https://drive.google.com/file/d/1fk9fLZEWMCtmNu0pyFzPYRH8PMLTQ661/view?usp=sharing
+pdf link-
+https://drive.google.com/file/d/1uS9bEDWL7EKtuqld2DLCqW0Y__Nbafo_/view?usp=sharing
