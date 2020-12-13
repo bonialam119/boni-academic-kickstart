@@ -19,7 +19,7 @@ image:
 slides: example
 ---
 
-[PDF](/files/Miah Project.ipynb)
+[PDF](/content/1.pdf)
 
 
 
