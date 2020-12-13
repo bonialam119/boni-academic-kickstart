@@ -2,7 +2,7 @@
 title: Assignment 1-Polynomial Regression using Random Data
 tags:
 date: "2020-10-26T00:00:00Z"
-permalink:/content/project/assignment-1/index
+permalink: /content/project/assignment-1/index
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
