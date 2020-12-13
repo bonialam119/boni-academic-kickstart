@@ -19,7 +19,7 @@ image:
 slides: example
 ---
 
-[[PDF]](/files/Miah Project.ipynb)
+[[PDF]](/boni-academic-kickstart/files/Miah Project.ipynb)
 
 
 
