@@ -25,3 +25,13 @@ organizations:
 - name: University of Texas at Arlington
   url: "content/project/assignment-1.jobaidulalamboni.pdf"
 
+Inline code: `variable`
+
+Code block:
+```python
+porridge = "blueberry"
+if porridge == "blueberry":
+    print("Eating...")
+```
+
+---
