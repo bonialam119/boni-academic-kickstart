@@ -34,3 +34,7 @@
    name = "CV"
    url = "img/cv.pdf"
    weight = 70
+[[main]]
+  name = "post"
+  url = "#post"
+  weight = 60
