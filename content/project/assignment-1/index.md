@@ -19,7 +19,7 @@ image:
 slides: example
 ---
 
-[[PDF]](content/project/assignment-1/EligibilityResultsNotice (1).pdf)
+[[PDF]](https://drive.google.com/file/d/1EnKV7E6UmArpZ19P9Ygcnaqh_cBgSED9/view?usp=sharing)
 notebook link
 https://drive.google.com/file/d/1EnKV7E6UmArpZ19P9Ygcnaqh_cBgSED9/view?usp=sharing
 
