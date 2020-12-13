@@ -19,7 +19,7 @@ image:
 slides: example
 ---
 
-[[pdf]](/img/schedule.pdf)
+[[pdf]](/img/1.pdf)
 
 
 
