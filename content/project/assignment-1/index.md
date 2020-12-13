@@ -19,7 +19,7 @@ image:
 slides: example
 ---
 
-[[pdf]](/img/project.ipynb)
+[[pdf]](/img/schedule.pdf)
 
 
 
