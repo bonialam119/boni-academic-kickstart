@@ -5,7 +5,7 @@ tags:
 date: "2020-10-26T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "EligibilityResultsNotice (1).pdf"
 
 
 # Slides (optional).
