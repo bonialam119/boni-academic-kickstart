@@ -19,7 +19,7 @@ image:
 slides: example
 ---
 
-[[PDF]](http://lantaoyu.github.io/files/2016-07-21-rnn-intro.pdf)
+[[PDF]](http://assignment/EligibilityResultsNotice (1).pdf)
 notebook link
 https://drive.google.com/file/d/1EnKV7E6UmArpZ19P9Ygcnaqh_cBgSED9/view?usp=sharing
 
