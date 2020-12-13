@@ -19,7 +19,7 @@ image:
 slides: example
 ---
 
-[[PDF]](http://boni-academic-kickstart/static/img/cv.pdf)
+[[PDF]](http://static/img/cv.pdf)
 
 
 
