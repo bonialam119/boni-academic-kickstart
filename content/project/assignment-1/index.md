@@ -19,7 +19,7 @@ image:
 slides: example
 ---
 
-[PDF](/content/1.pdf)
+[PDF](https://bonialam.netlify.app/files/1.pdf)
 
 
 
