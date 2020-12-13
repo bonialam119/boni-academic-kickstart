@@ -19,7 +19,7 @@ image:
 slides: example
 ---
 
-[PDF](https://bonialam.netlify.app/files/1.pdf)
+[PDF](url = "img/cv.pdf")
 
 
 
