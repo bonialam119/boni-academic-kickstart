@@ -21,12 +21,6 @@ slides: example
 notebook link
 https://drive.google.com/file/d/1EnKV7E6UmArpZ19P9Ygcnaqh_cBgSED9/view?usp=sharing
 
-organizations:
-- name: University of Texas at Arlington
-  url: "content/project/assignment-1.jobaidulalamboni.pdf"
-
-Inline code: `variable`
-
 Code block:
 ```python
 porridge = "blueberry"
