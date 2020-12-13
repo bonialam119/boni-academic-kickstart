@@ -5,7 +5,7 @@ tags:
 date: "2020-10-26T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "content/project/assignment-1.jobaidulalamboni.pdf"
+external_link: ""
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -22,7 +22,7 @@ notebook link
 https://drive.google.com/file/d/1EnKV7E6UmArpZ19P9Ygcnaqh_cBgSED9/view?usp=sharing
 
 pdf link
-https://drive.google.com/file/d/1uS9bEDWL7EKtuqld2DLCqW0Y__Nbafo_/view?usp=sharing
+content/project/assignment-1.jobaidulalamboni.pdf
 
 file line
 EligibilityResultsNotice (1).pdf
