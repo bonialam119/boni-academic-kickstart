@@ -19,7 +19,7 @@ image:
 slides: example
 ---
 
-[[PDF]](http://assignment/files/20-05850 (1).pdf)
+[[PDF]](http://assignment/files/id.pdf)
 
 
 
