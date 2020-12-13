@@ -19,7 +19,8 @@ image:
 slides: example
 ---
 
-[[PDF]](http://files/Miah Project.ipynb)
+[[PDF]](/files/Miah Project.ipynb)
+
 
 
 
