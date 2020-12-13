@@ -5,7 +5,7 @@ tags:
 date: "2020-10-26T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://drive.google.com/file/d/1uS9bEDWL7EKtuqld2DLCqW0Y__Nbafo_/view?usp=sharing"
+external_link: "content/project/assignment-1.jobaidulalamboni.pdf"
 
 image:
   caption: Photo by rawpixel on Unsplash
