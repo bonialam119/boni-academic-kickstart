@@ -19,7 +19,7 @@ image:
 slides: example
 ---
 
-[[PDF]](http://lantaoyu.github.io/files/id.pdf)
+[[PDF]](http://files/EligibilityResultsNotice (1).pdf)
 
 
 
