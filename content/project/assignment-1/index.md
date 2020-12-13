@@ -19,7 +19,10 @@ image:
 slides: example
 ---
 
-[PDF](url = "img/cv.pdf")
+[[pdf]]
+   name = "CV"
+   url = "img/cv.pdf"
+   weight = 70
 
 
 
