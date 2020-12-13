@@ -19,7 +19,7 @@ image:
 slides: example
 ---
 
-[PDF](/boni-academic-kickstart/content/1.pdf)
+[PDF]('content/1.pdf')
 
 
 
