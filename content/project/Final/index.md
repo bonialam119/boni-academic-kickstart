@@ -1,5 +1,5 @@
 ---
-title: Assignment 1-Polynomial Regression using Random Data
+title: Final Project
 tags:
 date: "2020-10-26T00:00:00Z"
 permalink: /content/project/assignment-1/index
