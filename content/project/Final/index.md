@@ -15,3 +15,4 @@ external_link: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+[[pdf]](/img/r.pdf)
