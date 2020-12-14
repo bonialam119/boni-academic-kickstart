@@ -18,4 +18,4 @@ image:
 slides: example
 ---
 
-[[pdf]](/img/r.pdf)
+[[pdf]]
