@@ -16,4 +16,4 @@ external_link: ""
 slides: example
 ---
 
-[[pdf]](/img/f.pdf)
+[[pdf]]
