@@ -8,7 +8,7 @@ permalink: /content/project/assignment-1/index
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption:
   focal_point: Smart
 
 # Slides (optional).
