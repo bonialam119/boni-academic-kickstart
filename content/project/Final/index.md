@@ -7,6 +7,9 @@ permalink: /content/project/assignment-1/index
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
+image:
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
