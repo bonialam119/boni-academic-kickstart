@@ -59,7 +59,9 @@ Being relatively robust, easy to implement, fast, and accurate, naive Bayes clas
 However, strong violations of the independence assumptions and non-linear classification problems can lead to very poor performances of naive Bayes classifiers.
 We have to keep in mind that the type of data and the type problem to be solved dictate which classification model we want to choose. In practice, it is always recommended to compare different classification models on the particular dataset and consider the prediction performances as well as computational efficiency.
 
-The advantages of support vector machines are:
+Support Vector Machines:
+
+Support vector machines (SVMs) are a set of supervised learning methods used for classification, regression and outliers detection. The advantages of support vector machines are:
 
 Effective in high dimensional spaces.
 
@@ -74,6 +76,8 @@ The disadvantages of support vector machines include:
 If the number of features is much greater than the number of samples, avoid over-fitting in choosing Kernel functions and regularization term is crucial.
 
 SVMs do not directly provide probability estimates, these are calculated using an expensive five-fold cross-validation.
+
+We will learn different codes and more about what discussed above in following links-
 
 [[pdf link]](/img/f.pdf)
 [[html link]](/img/ff.html)
